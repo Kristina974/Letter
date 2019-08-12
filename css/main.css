@@ -1,0 +1,151 @@
+body {
+	background: #fff;
+	color: #000;
+	font-family: 'Lato', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+div, p, a, img {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+.logo  {
+	margin-top: 45px;
+	text-align: center;
+}
+
+.nav {
+	margin-top: 40px;
+	padding-top: 60px;
+	padding-bottom: 85px; 
+	border-top: 5px solid #d7d7d7;
+	border-bottom: 5px solid #d7d7d7;
+}
+
+.logo-design {
+	display: inline-block;
+	height: 170px;
+	width: 465px;
+	margin-right: 40px;
+	padding-top: 8px;
+	background: url("../img/bg.png") no-repeat;
+	background-position: right 0;
+	font-size: 62px;
+	font-weight: 900;
+	text-transform: uppercase;
+    letter-spacing: 11.7px;
+}
+
+.address {
+	display: inline-block;
+	width: 200px;
+	margin-right: 40px;
+	color: #141b23;
+	font-weight: 300;
+	font-size: 29px;
+}
+
+.contacts {
+	display: inline-block;
+	height: 170px;
+	width: 315px;
+	padding: 30px 20px;
+	background: url("../img/bg.png") no-repeat;
+	font-weight: 400;
+	font-size: 27px;
+	vertical-align: top;
+
+}
+
+.contacts a {
+	display: block;
+}
+
+.contacts img {
+	vertical-align: bottom;
+}
+
+.tel-mobile {
+	margin-right: 24px;
+}
+
+.tel-stationary {
+	margin-right: 15px;
+}
+
+.contacts a + a {
+	margin-top: 20px;
+}
+
+.reference {
+	display: inline-block;
+	height: 170px;
+	width: 420px;
+	padding: 30px 20px;
+	font-weight: 400;
+	font-size: 30px;
+	vertical-align: top;
+}
+
+.reference a {
+	display: block;
+}
+
+.reference img {
+	vertical-align: bottom;
+}
+
+.website {
+	margin-right: 20px;
+}
+
+.mail {
+	margin-right: 20px;
+}
+
+.reference a + a {
+	margin-top: 25px;
+}
+
+.title {
+	display: inline-block;
+	width: 16%;
+	margin-top: 250px;
+	padding-right: 145px;
+	font-weight: 300;
+	font-size: 42px;
+	vertical-align: top;
+}
+
+.content {
+	display: inline-block;
+	width: 75%;
+	margin-top: 150px;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.appeal {
+	font-weight: 900;
+}
+
+.signature {
+	margin-top: 95px;
+	margin-left: 375px;
+}
+
+.logo-footer {
+	margin-top: 605px;
+	margin-bottom: 35px;
+	text-align: center;
+}
